@@ -1,0 +1,14 @@
+C:\Users\ALIENWARE\Desktop\AppDev\Simple C# Application\Simple C# Application\bin\Debug\net10.0\Simple C# Application.exe
+C:\Users\ALIENWARE\Desktop\AppDev\Simple C# Application\Simple C# Application\bin\Debug\net10.0\Simple C# Application.deps.json
+C:\Users\ALIENWARE\Desktop\AppDev\Simple C# Application\Simple C# Application\bin\Debug\net10.0\Simple C# Application.runtimeconfig.json
+C:\Users\ALIENWARE\Desktop\AppDev\Simple C# Application\Simple C# Application\bin\Debug\net10.0\Simple C# Application.dll
+C:\Users\ALIENWARE\Desktop\AppDev\Simple C# Application\Simple C# Application\bin\Debug\net10.0\Simple C# Application.pdb
+C:\Users\ALIENWARE\Desktop\AppDev\Simple C# Application\Simple C# Application\obj\Debug\net10.0\Simple C# Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALIENWARE\Desktop\AppDev\Simple C# Application\Simple C# Application\obj\Debug\net10.0\Simple C# Application.AssemblyInfoInputs.cache
+C:\Users\ALIENWARE\Desktop\AppDev\Simple C# Application\Simple C# Application\obj\Debug\net10.0\Simple C# Application.AssemblyInfo.cs
+C:\Users\ALIENWARE\Desktop\AppDev\Simple C# Application\Simple C# Application\obj\Debug\net10.0\Simple C# Application.csproj.CoreCompileInputs.cache
+C:\Users\ALIENWARE\Desktop\AppDev\Simple C# Application\Simple C# Application\obj\Debug\net10.0\Simple C# Application.dll
+C:\Users\ALIENWARE\Desktop\AppDev\Simple C# Application\Simple C# Application\obj\Debug\net10.0\refint\Simple C# Application.dll
+C:\Users\ALIENWARE\Desktop\AppDev\Simple C# Application\Simple C# Application\obj\Debug\net10.0\Simple C# Application.pdb
+C:\Users\ALIENWARE\Desktop\AppDev\Simple C# Application\Simple C# Application\obj\Debug\net10.0\Simple C# Application.genruntimeconfig.cache
+C:\Users\ALIENWARE\Desktop\AppDev\Simple C# Application\Simple C# Application\obj\Debug\net10.0\ref\Simple C# Application.dll
