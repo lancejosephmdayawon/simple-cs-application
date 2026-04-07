@@ -11,13 +11,13 @@ class Program
         string name = Console.ReadLine();
 
         // Input grades
-        Console.Write("Enter grade in Math Subject: ");
+        Console.Write("Enter grade in Math: ");
         double math = Convert.ToDouble(Console.ReadLine());
 
-        Console.Write("Enter grade in English Subject: ");
+        Console.Write("Enter grade in English: ");
         double english = Convert.ToDouble(Console.ReadLine());
 
-        Console.Write("Enter grade in Science Subject: ");
+        Console.Write("Enter grade in Science: ");
         double science = Convert.ToDouble(Console.ReadLine());
 
         // Calculate average
